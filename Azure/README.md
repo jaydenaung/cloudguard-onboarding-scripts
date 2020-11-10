@@ -7,7 +7,8 @@ This script is for onboarding multiple subscriptions into Dome9 quickly.
 * OR
 * Windows Management Framework 5.x. 
 * Microsoft Online Services Sign-In Assistant for IT Professionals: https://www.microsoft.com/en-us/download/details.aspx?id=41950
-* Install AzureRM PowerShell Module - Run: ```Install-Module -Name AzureRM -Confirm:$true```
+* Install AzureRM PowerShell Module - Run: ```Install-Module -Name AzureRM -Confirm:$true``` (This requires administrator account)
+
 
 ## Once you have that at a minimum, the script works like this:
 
